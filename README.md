@@ -25,13 +25,13 @@ I enjoy turning data into meaningful insights by building dashboards, analyzing 
 ### 🚇 [MTA Ridership Dashboard](https://github.com/j05144/mta-ridership-dashboard) | Power BI
 Built an interactive dashboard using six years of MTA ridership data. Cleaned data with Power Query, created DAX measures, designed interactive visuals, and validated results against the original dataset.
 
-### 📅 On Time *(Private)* | React Native • Expo • Supabase
+### 📅 On Time *(In Progress • Private)* | React Native • Expo • Supabase
 A mobile app that connects with Google Calendar and live travel data to calculate when users should leave for their next event.
 
-### 📖 Bible Study App *(Private)* | React Native • TypeScript
+### 📖 Bible Study App *(In Progress • Private)* | React Native • TypeScript
 A bilingual Korean and English app that allows small groups to read scripture together, highlight passages, and share reflections.
 
-### 🎓 Professor Companion *(Private)* | Chrome Extension
+### 🎓 Professor Companion *(In Progress • Private)* | Chrome Extension
 A Chrome extension that brings course and professor information together in one place to make course registration easier.
 
 ### 📊 [Sports Information System](https://github.com/j05144/CIS2300-Sports-Info-System-Project) | Python
