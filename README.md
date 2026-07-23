@@ -1,6 +1,6 @@
 # Hi, I'm Jinge Huang :)
 
-I'm a rising senior studying **Computer Information Systems** at **Baruch College (Zicklin School of Business)** and a **Break Through Tech AI/ML Fellow at Cornell Tech**, graduating in **May 2027**.
+I'm a rising senior studying **Computer Information Systems** at **Baruch College** and a **Break Through Tech AI/ML Fellow at Cornell Tech**, graduating in **May 2027**.
 
 I enjoy turning data into meaningful insights by building dashboards, analyzing trends, and helping projects stay organized from start to finish. I'm always looking for ways to solve everyday problems through technology, whether that's creating data-driven solutions or building simple apps that make life easier.
 
